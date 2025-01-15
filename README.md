@@ -75,7 +75,7 @@ Este proyecto está licenciado bajo la MIT License. Consulta el archivo LICENSE 
 
 ---
 
-Autor
+Author
 
 Creado y mantenido por [Sr.Idk](https://discord.com/users/).
 
