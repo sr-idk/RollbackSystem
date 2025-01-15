@@ -63,7 +63,7 @@ Contribuciones
 
 Soporte
 
-Si tienes dudas o encuentras algún error, puedes crear un issue o contactar a [Sr.Idk](https://discord.com/users/)
+Si tienes dudas o encuentras algún error, puedes crear un issue o contactar a [Sr.Idk](https://discord.com/users/1061075896804593755)
 
 
 ---
@@ -77,7 +77,7 @@ Este proyecto está licenciado bajo la MIT License. Consulta el archivo LICENSE 
 
 Autor
 
-Creado y mantenido por [Sr.Idk](https://discord.com/users/).
+Creado y mantenido por [Sr.Idk](https://discord.com/users/1061075896804593755).
 
 
 ---
