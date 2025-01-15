@@ -1,0 +1,9 @@
+name: Rollback
+author: Sr.Idk
+version: 1.0.0
+api: 5.0.0
+main: idk\rollback\Loader
+
+permissions:
+  rollback.cmd:
+    default: op
