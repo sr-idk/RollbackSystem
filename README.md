@@ -65,14 +65,6 @@ Soporte
 
 Si tienes dudas o encuentras algún error, puedes crear un issue o contactar a [Sr.Idk](https://discord.com/users/1061075896804593755)
 
-
----
-
-Licencia
-
-Este proyecto está licenciado bajo la MIT License. Consulta el archivo LICENSE para más información.
-
-
 ---
 
 Author
