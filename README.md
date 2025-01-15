@@ -4,6 +4,14 @@ RollBack System
 
 Un plugin avanzado para PocketMine-MP que permite revertir el inventario de lo jugadores con una descripción e información precisa.
 
+---
+
+Optimización
+
+🗄️ Optimizado para un mejor rendimiento y una mejor calidad de uso
+
+---
+
 
 ---
 
