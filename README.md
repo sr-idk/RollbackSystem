@@ -2,7 +2,7 @@
 
 RollBack System
 
-Un plugin avanzado para PocketMine-MP que permite revertir cambios realizados en el mundo, como bloques colocados, destruidos o editados, ideal para servidores que buscan una herramienta eficiente para manejar errores o comportamiento no deseado de los jugadores.
+Un plugin avanzado para PocketMine-MP que permite revertir el inventario de lo jugadores con una descripción e información precisa.
 
 
 ---
